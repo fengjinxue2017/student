@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-aop-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-aspects-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-context-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-context-support-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-expression-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-instrument-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-instrument-tomcat-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-jdbc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-jms-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-messaging-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-orm-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-oxm-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-test-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-tx-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-web-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-webmvc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-webmvc-portlet-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FJX/Desktop/O(∩_∩)O哈哈~/springPackage/spring-websocket-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
